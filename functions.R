@@ -94,6 +94,13 @@ state_file_reader <- function(state){
   return(file)
 }
 
+ c(
+      
+                  'Rory',
+                  'Cooper','Huck','Alden','Everett',
+                  'Adrian','Ellison','Emerson','Cole','Duncan','Garrett',
+                  'Graham','Griffin','Kyle','Leo',
+                  'Cameron','Wesley','Zachary')
 
 #Constants
 sender <- "owenmccart@gmail.com"
